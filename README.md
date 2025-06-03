@@ -18,6 +18,8 @@
 |----------|------|----------|
 | [IT Academy](https://github.com/UsmanGamidov/Site-It-Academy) | React, Express, MongoDB | Сайт платформы для офлайн-обучения |
 | [WeatherApp](https://github.com/UsmanGamidov/WeatherMonitorApp) | C++ / Qt | Клиент-серверное настольное приложение для показа погоды |
+| [DjangoShop](https://github.com/UsmanGamidov/shop) | Django, Python | Учебный интернет-магазин с авторизацией и админкой |
+| [TechnoPark05Bot](https://github.com/UsmanGamidov/tg_technopark) | Python, pyTelegramBotAPI | Telegram-бот учебного заведения с интеграцией в CRM |
 | ... | ... | ... |
 
 ## 🔗 Связь
