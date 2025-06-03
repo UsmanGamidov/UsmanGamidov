@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Привет! Я Усман — Fullstack-разработчик
 
-<!--
-**UsmanGamidov/UsmanGamidov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я создаю сайты, приложения, телеграм-ботов, парсеры и автоматизацию. Работаю со стеком **MERN**, **React native** **Django**, **PHP**, **C++**, **SQL** и другими.
 
-Here are some ideas to get you started:
+## 💻 Что я умею
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧠 Fullstack-разработка (React + Express + MongoDB)
+- ⚙️ Создание Telegram-ботов (Python / aiogram / telebot)
+- 🛠 Парсеры и скрипты автоматизации
+- 🌐 Верстка сайтов (HTML, CSS, JS, Tailwind, Bootstrap)
+- 🔐 Backend на Django и Express
+- 🧾 Работа с базами данных (MySQL, PostgreSQL, MongoDB)
+
+## 📂 Мои проекты
+
+| Название | Стек | Описание |
+|----------|------|----------|
+| [IT Academy](https://github.com/UsmanGamidov/Site-It-Academy) | React, Express, MongoDB | Сайт платформы для офлайн-обучения |
+| ... | ... | ... |
+
+## 🔗 Связь
+
+- Telegram: [@At_taqwa_tw](https://t.me/At_taqwa_tw)
+- GitHub: [UsmanGamidov](https://github.com/UsmanGamidov)
+
+---
+
+📌 В разработке всегда ищу баланс между простотой, производительностью и красотой.
