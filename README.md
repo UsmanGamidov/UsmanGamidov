@@ -20,7 +20,7 @@
 | [WeatherApp](https://github.com/UsmanGamidov/WeatherMonitorApp) | C++ / Qt | Клиент-серверное настольное приложение для показа погоды |
 | [DjangoShop](https://github.com/UsmanGamidov/shop) | Django, Python | Учебный интернет-магазин с авторизацией и админкой |
 | [ResumeEditor](https://github.com/UsmanGamidov/resume_editor) | React, Vite, DnD | Визуальный редактор резюме с live preview, drag&drop и экспортом в PDF |
-| [CSV Tool](https://github.com/UsmanGamidov/csv_tool) | Python, argparse, csv, tabulate, pytest | CLI-утилита для фильтрации и агрегации CSV-файлов |
+| [CSV Tool](https://github.com/UsmanGamidov/csv_tool) | Python, argparse, csv, pytest | CLI-утилита для фильтрации и агрегации CSV-файлов |
 | [TechnoPark05Bot](https://github.com/UsmanGamidov/tg_technopark) | Python, pyTelegramBotAPI | Telegram-бот учебного заведения с интеграцией в CRM |
 | ... | ... | ... |
 
